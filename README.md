@@ -1,11 +1,5 @@
 # Machine Learning Algorithms
 
-![image](https://github.com/khlinh2512/BusinessAnalytics/assets/118649367/5896cf2d-f02f-454c-979a-d68509d453c2)
-
-![image](https://github.com/khlinh2512/BusinessAnalytics/assets/118649367/48c1f0e4-b7e7-4ccb-87e7-fb9de7d7ffc3)
-
-![image](https://github.com/khlinh2512/BusinessAnalytics/assets/118649367/9771a350-55d9-479d-9a9f-5e3485e9e7c4)
-
 ## 1. Supervised Learning
 Supervised learning is a machine learning approach where algorithms learn from labeled data. The algorithm receives input data and corresponding correct output labels in this process. The objective is to train the algorithm to predict accurate labels for new, unseen data. 
 
